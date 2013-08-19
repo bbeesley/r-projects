@@ -1,0 +1,9 @@
+Package: fastxToolkit
+Type: Package
+Title: Toolkit for Fasta and Fastq Files
+Version: 1.0
+Date: 2013-08-19
+Author: Bill Beesley
+Maintainer: Bill Beesley <bbeesley@me.com>
+Description: Provides simple tools to perform various analyses on fasta and fastq files which have been processed with the bash scripts in fastx-toolkit.
+License: GPL (>= 2)
